@@ -1,0 +1,11 @@
+{
+    "host":"http://localhost:3000",
+    "dbURI":"mongodb+srv://rege-root:QqMehF8zSna68pnD@regezachat-n6hrn.mongodb.net/test?retryWrites=true",
+    "sessionSecret":"mysecret",
+    "fb":{
+        "clientID":"265759231001152",
+        "clientSecret":"5be13b900a612bfc7ab6fef75bc91770",
+        "callbackURL":"//localhost:3000/auth/facebook/callback",
+        "profileFields":["id","displayName","photos"]
+    }
+}
